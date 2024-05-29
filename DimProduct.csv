@@ -1,0 +1,607 @@
+ProductKey|EnglishProductName|StandardCost|Color|SafetyStockLevel|ReorderPoint|Status
+1|Adjustable Race|NULL|NA|1000|750|Current
+2|Bearing Ball|NULL|NA|1000|750|Current
+3|BB Ball Bearing|NULL|NA|800|600|Current
+4|Headset Ball Bearings|NULL|NA|800|600|Current
+5|Blade|NULL|NA|800|600|Current
+6|LL Crankarm|NULL|Black|500|375|Current
+7|ML Crankarm|NULL|Black|500|375|Current
+8|HL Crankarm|NULL|Black|500|375|Current
+9|Chainring Bolts|NULL|Silver|1000|750|Current
+10|Chainring Nut|NULL|Silver|1000|750|Current
+11|Chainring|NULL|Black|1000|750|Current
+12|Crown Race|NULL|NA|1000|750|Current
+13|Chain Stays|NULL|NA|1000|750|Current
+14|Decal 1|NULL|NA|1000|750|Current
+15|Decal 2|NULL|NA|1000|750|Current
+16|Down Tube|NULL|NA|800|600|Current
+17|Mountain End Caps|NULL|NA|1000|750|Current
+18|Road End Caps|NULL|NA|1000|750|Current
+19|Touring End Caps|NULL|NA|1000|750|Current
+20|Fork End|NULL|NA|800|600|Current
+21|Freewheel|NULL|Silver|500|375|Current
+22|Flat Washer 1|NULL|NA|1000|750|Current
+23|Flat Washer 6|NULL|NA|1000|750|Current
+24|Flat Washer 2|NULL|NA|1000|750|Current
+25|Flat Washer 9|NULL|NA|1000|750|Current
+26|Flat Washer 4|NULL|NA|1000|750|Current
+27|Flat Washer 3|NULL|NA|1000|750|Current
+28|Flat Washer 8|NULL|NA|1000|750|Current
+29|Flat Washer 5|NULL|NA|1000|750|Current
+30|Flat Washer 7|NULL|NA|1000|750|Current
+31|Fork Crown|NULL|NA|800|600|Current
+32|Front Derailleur Cage|NULL|Silver|800|600|Current
+33|Front Derailleur Linkage|NULL|Silver|800|600|Current
+34|Guide Pulley|NULL|NA|800|600|Current
+35|LL Grip Tape|NULL|NA|800|600|Current
+36|ML Grip Tape|NULL|NA|800|600|Current
+37|HL Grip Tape|NULL|NA|800|600|Current
+38|Thin-Jam Hex Nut 9|NULL|NA|1000|750|Current
+39|Thin-Jam Hex Nut 10|NULL|NA|1000|750|Current
+40|Thin-Jam Hex Nut 1|NULL|NA|1000|750|Current
+41|Thin-Jam Hex Nut 2|NULL|NA|1000|750|Current
+42|Thin-Jam Hex Nut 15|NULL|NA|1000|750|Current
+43|Thin-Jam Hex Nut 16|NULL|NA|1000|750|Current
+44|Thin-Jam Hex Nut 5|NULL|NA|1000|750|Current
+45|Thin-Jam Hex Nut 6|NULL|NA|1000|750|Current
+46|Thin-Jam Hex Nut 3|NULL|NA|1000|750|Current
+47|Thin-Jam Hex Nut 4|NULL|NA|1000|750|Current
+48|Thin-Jam Hex Nut 13|NULL|NA|1000|750|Current
+49|Thin-Jam Hex Nut 14|NULL|NA|1000|750|Current
+50|Thin-Jam Hex Nut 7|NULL|NA|1000|750|Current
+51|Thin-Jam Hex Nut 8|NULL|NA|1000|750|Current
+52|Thin-Jam Hex Nut 12|NULL|NA|1000|750|Current
+53|Thin-Jam Hex Nut 11|NULL|NA|1000|750|Current
+54|Hex Nut 5|NULL|NA|1000|750|Current
+55|Hex Nut 6|NULL|NA|1000|750|Current
+56|Hex Nut 16|NULL|NA|1000|750|Current
+57|Hex Nut 17|NULL|NA|1000|750|Current
+58|Hex Nut 7|NULL|NA|1000|750|Current
+59|Hex Nut 8|NULL|NA|1000|750|Current
+60|Hex Nut 9|NULL|NA|1000|750|Current
+61|Hex Nut 22|NULL|NA|1000|750|Current
+62|Hex Nut 23|NULL|NA|1000|750|Current
+63|Hex Nut 12|NULL|NA|1000|750|Current
+64|Hex Nut 13|NULL|NA|1000|750|Current
+65|Hex Nut 1|NULL|NA|1000|750|Current
+66|Hex Nut 10|NULL|NA|1000|750|Current
+67|Hex Nut 11|NULL|NA|1000|750|Current
+68|Hex Nut 2|NULL|NA|1000|750|Current
+69|Hex Nut 20|NULL|NA|1000|750|Current
+70|Hex Nut 21|NULL|NA|1000|750|Current
+71|Hex Nut 3|NULL|NA|1000|750|Current
+72|Hex Nut 14|NULL|NA|1000|750|Current
+73|Hex Nut 15|NULL|NA|1000|750|Current
+74|Hex Nut 4|NULL|NA|1000|750|Current
+75|Hex Nut 18|NULL|NA|1000|750|Current
+76|Hex Nut 19|NULL|NA|1000|750|Current
+77|Handlebar Tube|NULL|NA|800|600|Current
+78|Head Tube|NULL|NA|800|600|Current
+79|LL Hub|NULL|NA|500|375|Current
+80|HL Hub|NULL|NA|500|375|Current
+81|Keyed Washer|NULL|NA|1000|750|Current
+82|External Lock Washer 3|NULL|NA|1000|750|Current
+83|External Lock Washer 4|NULL|NA|1000|750|Current
+84|External Lock Washer 9|NULL|NA|1000|750|Current
+85|External Lock Washer 5|NULL|NA|1000|750|Current
+86|External Lock Washer 7|NULL|NA|1000|750|Current
+87|External Lock Washer 6|NULL|NA|1000|750|Current
+88|External Lock Washer 1|NULL|NA|1000|750|Current
+89|External Lock Washer 8|NULL|NA|1000|750|Current
+90|External Lock Washer 2|NULL|NA|1000|750|Current
+91|Internal Lock Washer 3|NULL|NA|1000|750|Current
+92|Internal Lock Washer 4|NULL|NA|1000|750|Current
+93|Internal Lock Washer 9|NULL|NA|1000|750|Current
+94|Internal Lock Washer 5|NULL|NA|1000|750|Current
+95|Internal Lock Washer 7|NULL|NA|1000|750|Current
+96|Internal Lock Washer 6|NULL|NA|1000|750|Current
+97|Internal Lock Washer 10|NULL|NA|1000|750|Current
+98|Internal Lock Washer 1|NULL|NA|1000|750|Current
+99|Internal Lock Washer 8|NULL|NA|1000|750|Current
+100|Internal Lock Washer 2|NULL|NA|1000|750|Current
+101|Thin-Jam Lock Nut 9|NULL|NA|1000|750|Current
+102|Thin-Jam Lock Nut 10|NULL|NA|1000|750|Current
+103|Thin-Jam Lock Nut 1|NULL|NA|1000|750|Current
+104|Thin-Jam Lock Nut 2|NULL|NA|1000|750|Current
+105|Thin-Jam Lock Nut 15|NULL|NA|1000|750|Current
+106|Thin-Jam Lock Nut 16|NULL|NA|1000|750|Current
+107|Thin-Jam Lock Nut 5|NULL|NA|1000|750|Current
+108|Thin-Jam Lock Nut 6|NULL|NA|1000|750|Current
+109|Thin-Jam Lock Nut 3|NULL|NA|1000|750|Current
+110|Thin-Jam Lock Nut 4|NULL|NA|1000|750|Current
+111|Thin-Jam Lock Nut 13|NULL|NA|1000|750|Current
+112|Thin-Jam Lock Nut 14|NULL|NA|1000|750|Current
+113|Thin-Jam Lock Nut 7|NULL|NA|1000|750|Current
+114|Thin-Jam Lock Nut 8|NULL|NA|1000|750|Current
+115|Thin-Jam Lock Nut 12|NULL|NA|1000|750|Current
+116|Thin-Jam Lock Nut 11|NULL|NA|1000|750|Current
+117|Lock Nut 5|NULL|NA|1000|750|Current
+118|Lock Nut 6|NULL|NA|1000|750|Current
+119|Lock Nut 16|NULL|NA|1000|750|Current
+120|Lock Nut 17|NULL|NA|1000|750|Current
+121|Lock Nut 7|NULL|NA|1000|750|Current
+122|Lock Nut 8|NULL|NA|1000|750|Current
+123|Lock Nut 9|NULL|NA|1000|750|Current
+124|Lock Nut 22|NULL|NA|1000|750|Current
+125|Lock Nut 23|NULL|NA|1000|750|Current
+126|Lock Nut 12|NULL|NA|1000|750|Current
+127|Lock Nut 13|NULL|NA|1000|750|Current
+128|Lock Nut 1|NULL|NA|1000|750|Current
+129|Lock Nut 10|NULL|NA|1000|750|Current
+130|Lock Nut 11|NULL|NA|1000|750|Current
+131|Lock Nut 2|NULL|NA|1000|750|Current
+132|Lock Nut 20|NULL|NA|1000|750|Current
+133|Lock Nut 21|NULL|NA|1000|750|Current
+134|Lock Nut 3|NULL|NA|1000|750|Current
+135|Lock Nut 14|NULL|NA|1000|750|Current
+136|Lock Nut 15|NULL|NA|1000|750|Current
+137|Lock Nut 4|NULL|NA|1000|750|Current
+138|Lock Nut 19|NULL|NA|1000|750|Current
+139|Lock Nut 18|NULL|NA|1000|750|Current
+140|Lock Ring|NULL|Silver|1000|750|Current
+141|Lower Head Race|NULL|NA|1000|750|Current
+142|Lock Washer 4|NULL|NA|1000|750|Current
+143|Lock Washer 5|NULL|NA|1000|750|Current
+144|Lock Washer 10|NULL|NA|1000|750|Current
+145|Lock Washer 6|NULL|NA|1000|750|Current
+146|Lock Washer 13|NULL|NA|1000|750|Current
+147|Lock Washer 8|NULL|NA|1000|750|Current
+148|Lock Washer 1|NULL|NA|1000|750|Current
+149|Lock Washer 7|NULL|NA|1000|750|Current
+150|Lock Washer 12|NULL|NA|1000|750|Current
+151|Lock Washer 2|NULL|NA|1000|750|Current
+152|Lock Washer 9|NULL|NA|1000|750|Current
+153|Lock Washer 3|NULL|NA|1000|750|Current
+154|Lock Washer 11|NULL|NA|1000|750|Current
+155|Metal Angle|NULL|NA|1000|750|Current
+156|Metal Bar 1|NULL|NA|1000|750|Current
+157|Metal Bar 2|NULL|NA|1000|750|Current
+158|Metal Plate 2|NULL|NA|1000|750|Current
+159|Metal Plate 1|NULL|NA|1000|750|Current
+160|Metal Plate 3|NULL|NA|1000|750|Current
+161|Metal Sheet 2|NULL|NA|1000|750|Current
+162|Metal Sheet 3|NULL|NA|1000|750|Current
+163|Metal Sheet 7|NULL|NA|1000|750|Current
+164|Metal Sheet 4|NULL|NA|1000|750|Current
+165|Metal Sheet 5|NULL|NA|1000|750|Current
+166|Metal Sheet 6|NULL|NA|1000|750|Current
+167|Metal Sheet 1|NULL|NA|1000|750|Current
+168|Metal Tread Plate|NULL|NA|1000|750|Current
+169|LL Nipple|NULL|NA|1000|750|Current
+170|HL Nipple|NULL|NA|1000|750|Current
+171|Paint - Black|NULL|NA|60|45|Current
+172|Paint - Red|NULL|NA|60|45|Current
+173|Paint - Silver|NULL|NA|60|45|Current
+174|Paint - Blue|NULL|NA|60|45|Current
+175|Paint - Yellow|NULL|NA|60|45|Current
+176|Pinch Bolt|NULL|NA|1000|750|Current
+177|Cup-Shaped Race|NULL|NA|1000|750|Current
+178|Cone-Shaped Race|NULL|NA|1000|750|Current
+179|Reflector|NULL|NA|1000|750|Current
+180|LL Mountain Rim|NULL|NA|800|600|Current
+181|ML Mountain Rim|NULL|NA|800|600|Current
+182|HL Mountain Rim|NULL|NA|800|600|Current
+183|LL Road Rim|NULL|NA|800|600|Current
+184|ML Road Rim|NULL|NA|800|600|Current
+185|HL Road Rim|NULL|NA|800|600|Current
+186|Touring Rim|NULL|NA|800|600|Current
+187|LL Mountain Seat Assembly|NULL|NA|500|375|Current
+188|ML Mountain Seat Assembly|NULL|NA|500|375|Current
+189|HL Mountain Seat Assembly|NULL|NA|500|375|Current
+190|LL Road Seat Assembly|NULL|NA|500|375|Current
+191|ML Road Seat Assembly|NULL|NA|500|375|Current
+192|HL Road Seat Assembly|NULL|NA|500|375|Current
+193|LL Touring Seat Assembly|NULL|NA|500|375|Current
+194|ML Touring Seat Assembly|NULL|NA|500|375|Current
+195|HL Touring Seat Assembly|NULL|NA|500|375|Current
+196|LL Spindle/Axle|NULL|NA|500|375|Current
+197|HL Spindle/Axle|NULL|NA|500|375|Current
+198|LL Shell|NULL|NA|800|600|Current
+199|HL Shell|NULL|NA|800|600|Current
+200|Spokes|NULL|NA|1000|750|Current
+201|Seat Lug|NULL|NA|1000|750|Current
+202|Stem|NULL|NA|500|375|Current
+203|Seat Post|NULL|NA|500|375|Current
+204|Steerer|NULL|NA|500|375|Current
+205|Seat Stays|NULL|NA|800|600|Current
+206|Seat Tube|NULL|NA|500|375|Current
+207|Top Tube|NULL|NA|500|375|Current
+208|Tension Pulley|NULL|NA|800|600|Current
+209|Rear Derailleur Cage|NULL|Silver|500|375|Current
+210|HL Road Frame - Black, 58|NULL|Black|500|375|Current
+211|HL Road Frame - Red, 58|NULL|Red|500|375|Current
+212|Sport-100 Helmet, Red|12.0278|Red|4|3|NULL
+213|Sport-100 Helmet, Red|13.8782|Red|4|3|NULL
+214|Sport-100 Helmet, Red|13.0863|Red|4|3|Current
+215|Sport-100 Helmet, Black|12.0278|Black|4|3|NULL
+216|Sport-100 Helmet, Black|13.8782|Black|4|3|NULL
+217|Sport-100 Helmet, Black|13.0863|Black|4|3|Current
+218|Mountain Bike Socks, M|3.3963|White|4|3|NULL
+219|Mountain Bike Socks, L|3.3963|White|4|3|NULL
+220|Sport-100 Helmet, Blue|12.0278|Blue|4|3|NULL
+221|Sport-100 Helmet, Blue|13.8782|Blue|4|3|NULL
+222|Sport-100 Helmet, Blue|13.0863|Blue|4|3|Current
+223|AWC Logo Cap|5.7052|Multi|4|3|NULL
+224|AWC Logo Cap|5.2297|Multi|4|3|NULL
+225|AWC Logo Cap|6.9223|Multi|4|3|Current
+226|Long-Sleeve Logo Jersey, S|31.7244|Multi|4|3|NULL
+227|Long-Sleeve Logo Jersey, S|29.0807|Multi|4|3|NULL
+228|Long-Sleeve Logo Jersey, S|38.4923|Multi|4|3|Current
+229|Long-Sleeve Logo Jersey, M|31.7244|Multi|4|3|NULL
+230|Long-Sleeve Logo Jersey, M|29.0807|Multi|4|3|NULL
+231|Long-Sleeve Logo Jersey, M|38.4923|Multi|4|3|Current
+232|Long-Sleeve Logo Jersey, L|31.7244|Multi|4|3|NULL
+233|Long-Sleeve Logo Jersey, L|29.0807|Multi|4|3|NULL
+234|Long-Sleeve Logo Jersey, L|38.4923|Multi|4|3|Current
+235|Long-Sleeve Logo Jersey, XL|31.7244|Multi|4|3|NULL
+236|Long-Sleeve Logo Jersey, XL|29.0807|Multi|4|3|NULL
+237|Long-Sleeve Logo Jersey, XL|38.4923|Multi|4|3|Current
+238|HL Road Frame - Red, 62|747.9682|Red|500|375|NULL
+239|HL Road Frame - Red, 62|722.2568|Red|500|375|NULL
+240|HL Road Frame - Red, 62|868.6342|Red|500|375|Current
+241|HL Road Frame - Red, 44|747.9682|Red|500|375|NULL
+242|HL Road Frame - Red, 44|722.2568|Red|500|375|NULL
+243|HL Road Frame - Red, 44|868.6342|Red|500|375|Current
+244|HL Road Frame - Red, 48|747.9682|Red|500|375|NULL
+245|HL Road Frame - Red, 48|722.2568|Red|500|375|NULL
+246|HL Road Frame - Red, 48|868.6342|Red|500|375|Current
+247|HL Road Frame - Red, 52|747.9682|Red|500|375|NULL
+248|HL Road Frame - Red, 52|722.2568|Red|500|375|NULL
+249|HL Road Frame - Red, 52|868.6342|Red|500|375|Current
+250|HL Road Frame - Red, 56|747.9682|Red|500|375|NULL
+251|HL Road Frame - Red, 56|722.2568|Red|500|375|NULL
+252|HL Road Frame - Red, 56|868.6342|Red|500|375|Current
+253|LL Road Frame - Black, 58|176.1997|Black|500|375|NULL
+254|LL Road Frame - Black, 58|170.1428|Black|500|375|NULL
+255|LL Road Frame - Black, 58|204.6251|Black|500|375|Current
+256|LL Road Frame - Black, 60|176.1997|Black|500|375|NULL
+257|LL Road Frame - Black, 60|170.1428|Black|500|375|NULL
+258|LL Road Frame - Black, 60|204.6251|Black|500|375|Current
+259|LL Road Frame - Black, 62|176.1997|Black|500|375|NULL
+260|LL Road Frame - Black, 62|170.1428|Black|500|375|NULL
+261|LL Road Frame - Black, 62|204.6251|Black|500|375|Current
+262|LL Road Frame - Red, 44|181.4857|Red|500|375|NULL
+263|LL Road Frame - Red, 44|187.1571|Red|500|375|NULL
+264|LL Road Frame - Red, 48|181.4857|Red|500|375|NULL
+265|LL Road Frame - Red, 48|187.1571|Red|500|375|NULL
+266|LL Road Frame - Red, 52|181.4857|Red|500|375|NULL
+267|LL Road Frame - Red, 52|187.1571|Red|500|375|NULL
+268|LL Road Frame - Red, 58|181.4857|Red|500|375|NULL
+269|LL Road Frame - Red, 58|187.1571|Red|500|375|NULL
+270|LL Road Frame - Red, 60|181.4857|Red|500|375|NULL
+271|LL Road Frame - Red, 60|187.1571|Red|500|375|NULL
+272|LL Road Frame - Red, 62|181.4857|Red|500|375|NULL
+273|LL Road Frame - Red, 62|187.1571|Red|500|375|NULL
+274|ML Road Frame - Red, 44|352.1394|Red|500|375|NULL
+275|ML Road Frame - Red, 48|352.1394|Red|500|375|NULL
+276|ML Road Frame - Red, 52|352.1394|Red|500|375|NULL
+277|ML Road Frame - Red, 58|352.1394|Red|500|375|NULL
+278|ML Road Frame - Red, 60|352.1394|Red|500|375|NULL
+279|LL Road Frame - Black, 44|176.1997|Black|500|375|NULL
+280|LL Road Frame - Black, 44|170.1428|Black|500|375|NULL
+281|LL Road Frame - Black, 44|204.6251|Black|500|375|Current
+282|LL Road Frame - Black, 48|176.1997|Black|500|375|NULL
+283|LL Road Frame - Black, 48|170.1428|Black|500|375|NULL
+284|LL Road Frame - Black, 48|204.6251|Black|500|375|Current
+285|LL Road Frame - Black, 52|176.1997|Black|500|375|NULL
+286|LL Road Frame - Black, 52|170.1428|Black|500|375|NULL
+287|LL Road Frame - Black, 52|204.6251|Black|500|375|Current
+288|HL Mountain Frame - Silver, 42|623.8403|Silver|500|375|NULL
+289|HL Mountain Frame - Silver, 42|660.9142|Silver|500|375|NULL
+290|HL Mountain Frame - Silver, 42|747.2002|Silver|500|375|Current
+291|HL Mountain Frame - Silver, 44|706.811|Silver|500|375|NULL
+292|HL Mountain Frame - Silver, 48|706.811|Silver|500|375|NULL
+293|HL Mountain Frame - Silver, 46|623.8403|Silver|500|375|NULL
+294|HL Mountain Frame - Silver, 46|660.9142|Silver|500|375|NULL
+295|HL Mountain Frame - Silver, 46|747.2002|Silver|500|375|Current
+296|HL Mountain Frame - Black, 42|617.0281|Black|500|375|NULL
+297|HL Mountain Frame - Black, 42|653.6971|Black|500|375|NULL
+298|HL Mountain Frame - Black, 42|739.041|Black|500|375|Current
+299|HL Mountain Frame - Black, 44|699.0928|Black|500|375|NULL
+300|HL Mountain Frame - Black, 48|699.0928|Black|500|375|NULL
+301|HL Mountain Frame - Black, 46|617.0281|Black|500|375|NULL
+302|HL Mountain Frame - Black, 46|653.6971|Black|500|375|NULL
+303|HL Mountain Frame - Black, 46|739.041|Black|500|375|Current
+304|HL Mountain Frame - Black, 38|617.0281|Black|500|375|NULL
+305|HL Mountain Frame - Black, 38|653.6971|Black|500|375|NULL
+306|HL Mountain Frame - Black, 38|739.041|Black|500|375|Current
+307|HL Mountain Frame - Silver, 38|623.8403|Silver|500|375|NULL
+308|HL Mountain Frame - Silver, 38|660.9142|Silver|500|375|NULL
+309|HL Mountain Frame - Silver, 38|747.2002|Silver|500|375|Current
+310|Road-150 Red, 62|2171.2942|Red|100|75|NULL
+311|Road-150 Red, 44|2171.2942|Red|100|75|NULL
+312|Road-150 Red, 48|2171.2942|Red|100|75|NULL
+313|Road-150 Red, 52|2171.2942|Red|100|75|NULL
+314|Road-150 Red, 56|2171.2942|Red|100|75|NULL
+315|Road-450 Red, 58|884.7083|Red|100|75|NULL
+316|Road-450 Red, 60|884.7083|Red|100|75|NULL
+317|Road-450 Red, 44|884.7083|Red|100|75|NULL
+318|Road-450 Red, 48|884.7083|Red|100|75|NULL
+319|Road-450 Red, 52|884.7083|Red|100|75|NULL
+320|Road-650 Red, 58|413.1463|Red|100|75|NULL
+321|Road-650 Red, 58|486.7066|Red|100|75|NULL
+322|Road-650 Red, 60|413.1463|Red|100|75|NULL
+323|Road-650 Red, 60|486.7066|Red|100|75|NULL
+324|Road-650 Red, 62|413.1463|Red|100|75|NULL
+325|Road-650 Red, 62|486.7066|Red|100|75|NULL
+326|Road-650 Red, 44|413.1463|Red|100|75|NULL
+327|Road-650 Red, 44|486.7066|Red|100|75|NULL
+328|Road-650 Red, 48|413.1463|Red|100|75|NULL
+329|Road-650 Red, 48|486.7066|Red|100|75|NULL
+330|Road-650 Red, 52|413.1463|Red|100|75|NULL
+331|Road-650 Red, 52|486.7066|Red|100|75|NULL
+332|Road-650 Black, 58|413.1463|Black|100|75|NULL
+333|Road-650 Black, 58|486.7066|Black|100|75|NULL
+334|Road-650 Black, 60|413.1463|Black|100|75|NULL
+335|Road-650 Black, 60|486.7066|Black|100|75|NULL
+336|Road-650 Black, 62|413.1463|Black|100|75|NULL
+337|Road-650 Black, 62|486.7066|Black|100|75|NULL
+338|Road-650 Black, 44|413.1463|Black|100|75|NULL
+339|Road-650 Black, 44|486.7066|Black|100|75|NULL
+340|Road-650 Black, 48|413.1463|Black|100|75|NULL
+341|Road-650 Black, 48|486.7066|Black|100|75|NULL
+342|Road-650 Black, 52|413.1463|Black|100|75|NULL
+343|Road-650 Black, 52|486.7066|Black|100|75|NULL
+344|Mountain-100 Silver, 38|1912.1544|Silver|100|75|NULL
+345|Mountain-100 Silver, 42|1912.1544|Silver|100|75|NULL
+346|Mountain-100 Silver, 44|1912.1544|Silver|100|75|NULL
+347|Mountain-100 Silver, 48|1912.1544|Silver|100|75|NULL
+348|Mountain-100 Black, 38|1898.0944|Black|100|75|NULL
+349|Mountain-100 Black, 42|1898.0944|Black|100|75|NULL
+350|Mountain-100 Black, 44|1898.0944|Black|100|75|NULL
+351|Mountain-100 Black, 48|1898.0944|Black|100|75|NULL
+352|Mountain-200 Silver, 38|1117.8559|Silver|100|75|NULL
+353|Mountain-200 Silver, 38|1265.6195|Silver|100|75|Current
+354|Mountain-200 Silver, 42|1117.8559|Silver|100|75|NULL
+355|Mountain-200 Silver, 42|1265.6195|Silver|100|75|Current
+356|Mountain-200 Silver, 46|1117.8559|Silver|100|75|NULL
+357|Mountain-200 Silver, 46|1265.6195|Silver|100|75|Current
+358|Mountain-200 Black, 38|1105.81|Black|100|75|NULL
+359|Mountain-200 Black, 38|1251.9813|Black|100|75|Current
+360|Mountain-200 Black, 42|1105.81|Black|100|75|NULL
+361|Mountain-200 Black, 42|1251.9813|Black|100|75|Current
+362|Mountain-200 Black, 46|1105.81|Black|100|75|NULL
+363|Mountain-200 Black, 46|1251.9813|Black|100|75|Current
+364|Mountain-300 Black, 38|598.4354|Black|100|75|NULL
+365|Mountain-300 Black, 40|598.4354|Black|100|75|NULL
+366|Mountain-300 Black, 44|598.4354|Black|100|75|NULL
+367|Mountain-300 Black, 48|598.4354|Black|100|75|NULL
+368|Road-250 Red, 44|1518.7864|Red|100|75|NULL
+369|Road-250 Red, 48|1518.7864|Red|100|75|NULL
+370|Road-250 Red, 52|1518.7864|Red|100|75|NULL
+371|Road-250 Red, 58|1320.6838|Red|100|75|NULL
+372|Road-250 Red, 58|1554.9479|Red|100|75|Current
+373|Road-250 Black, 44|1320.6838|Black|100|75|NULL
+374|Road-250 Black, 44|1554.9479|Black|100|75|Current
+375|Road-250 Black, 48|1320.6838|Black|100|75|NULL
+376|Road-250 Black, 48|1554.9479|Black|100|75|Current
+377|Road-250 Black, 52|1320.6838|Black|100|75|NULL
+378|Road-250 Black, 52|1554.9479|Black|100|75|Current
+379|Road-250 Black, 58|1320.6838|Black|100|75|NULL
+380|Road-250 Black, 58|1554.9479|Black|100|75|Current
+381|Road-550-W Yellow, 38|605.6492|Yellow|100|75|NULL
+382|Road-550-W Yellow, 38|713.0798|Yellow|100|75|Current
+383|Road-550-W Yellow, 40|605.6492|Yellow|100|75|NULL
+384|Road-550-W Yellow, 40|713.0798|Yellow|100|75|Current
+385|Road-550-W Yellow, 42|605.6492|Yellow|100|75|NULL
+386|Road-550-W Yellow, 42|713.0798|Yellow|100|75|Current
+387|Road-550-W Yellow, 44|605.6492|Yellow|100|75|NULL
+388|Road-550-W Yellow, 44|713.0798|Yellow|100|75|Current
+389|Road-550-W Yellow, 48|605.6492|Yellow|100|75|NULL
+390|Road-550-W Yellow, 48|713.0798|Yellow|100|75|Current
+391|LL Fork|65.8097|NA|500|375|NULL
+392|ML Fork|77.9176|NA|500|375|NULL
+393|HL Fork|101.8936|NA|500|375|NULL
+394|LL Headset|15.1848|NA|500|375|NULL
+395|ML Headset|45.4168|NA|500|375|NULL
+396|HL Headset|55.3801|NA|500|375|NULL
+397|LL Mountain Handlebars|17.978|NA|500|375|NULL
+398|LL Mountain Handlebars|19.7758|NA|500|375|Current
+399|ML Mountain Handlebars|24.9932|NA|500|375|NULL
+400|ML Mountain Handlebars|27.4925|NA|500|375|Current
+401|HL Mountain Handlebars|48.5453|NA|500|375|NULL
+402|HL Mountain Handlebars|53.3999|NA|500|375|Current
+403|LL Road Handlebars|17.978|NA|500|375|NULL
+404|LL Road Handlebars|19.7758|NA|500|375|Current
+405|ML Road Handlebars|24.9932|NA|500|375|NULL
+406|ML Road Handlebars|27.4925|NA|500|375|Current
+407|HL Road Handlebars|48.5453|NA|500|375|NULL
+408|HL Road Handlebars|53.3999|NA|500|375|Current
+409|ML Mountain Frame - Black, 38|185.8193|Black|500|375|NULL
+410|LL Mountain Front Wheel|26.9708|Black|500|375|NULL
+411|ML Mountain Front Wheel|92.8071|Black|500|375|NULL
+412|HL Mountain Front Wheel|133.2955|Black|500|375|NULL
+413|LL Road Front Wheel|37.9909|Black|500|375|NULL
+414|ML Road Front Wheel|110.2829|Black|500|375|NULL
+415|HL Road Front Wheel|146.5466|Black|500|375|NULL
+416|Touring Front Wheel|96.7964|Black|500|375|NULL
+417|ML Road Frame-W - Yellow, 38|300.1188|Yellow|500|375|NULL
+418|ML Road Frame-W - Yellow, 38|360.9428|Yellow|500|375|Current
+419|LL Mountain Rear Wheel|38.9588|Black|500|375|NULL
+420|ML Mountain Rear Wheel|104.7951|Black|500|375|NULL
+421|HL Mountain Rear Wheel|145.2835|Black|500|375|NULL
+422|LL Road Rear Wheel|49.9789|Black|500|375|NULL
+423|ML Road Rear Wheel|122.2709|Black|500|375|NULL
+424|HL Road Rear Wheel|158.5346|Black|500|375|NULL
+425|Touring Rear Wheel|108.7844|Black|500|375|NULL
+426|ML Mountain Frame - Black, 40|185.8193|Black|500|375|NULL
+427|ML Mountain Frame - Black, 44|185.8193|Black|500|375|NULL
+428|ML Mountain Frame - Black, 48|185.8193|Black|500|375|NULL
+429|ML Road Frame-W - Yellow, 40|300.1188|Yellow|500|375|NULL
+430|ML Road Frame-W - Yellow, 40|360.9428|Yellow|500|375|Current
+431|ML Road Frame-W - Yellow, 42|300.1188|Yellow|500|375|NULL
+432|ML Road Frame-W - Yellow, 42|360.9428|Yellow|500|375|Current
+433|ML Road Frame-W - Yellow, 44|300.1188|Yellow|500|375|NULL
+434|ML Road Frame-W - Yellow, 44|360.9428|Yellow|500|375|Current
+435|ML Road Frame-W - Yellow, 48|300.1188|Yellow|500|375|NULL
+436|ML Road Frame-W - Yellow, 48|360.9428|Yellow|500|375|Current
+437|HL Road Frame - Black, 62|722.2568|Black|500|375|NULL
+438|HL Road Frame - Black, 62|868.6342|Black|500|375|Current
+439|HL Road Frame - Black, 44|722.2568|Black|500|375|NULL
+440|HL Road Frame - Black, 44|868.6342|Black|500|375|Current
+441|HL Road Frame - Black, 48|722.2568|Black|500|375|NULL
+442|HL Road Frame - Black, 48|868.6342|Black|500|375|Current
+443|HL Road Frame - Black, 52|722.2568|Black|500|375|NULL
+444|HL Road Frame - Black, 52|868.6342|Black|500|375|Current
+445|"Men's Sports Shorts, S"|24.7459|Black|4|3|NULL
+446|Touring-Panniers, Large|51.5625|Grey|4|3|NULL
+447|Cable Lock|10.3125|NA|4|3|NULL
+448|Minipump|8.2459|NA|4|3|NULL
+449|Mountain Pump|10.3084|NA|4|3|NULL
+450|Taillights - Battery-Powered|5.7709|NA|4|3|NULL
+451|Headlights - Dual-Beam|14.4334|NA|4|3|NULL
+452|Headlights - Weatherproof|18.5584|NA|4|3|NULL
+453|"Men's Sports Shorts, M"|24.7459|Black|4|3|NULL
+454|"Men's Sports Shorts, L"|24.7459|Black|4|3|NULL
+455|"Men's Sports Shorts, XL"|24.7459|Black|4|3|NULL
+456|"Women's Tights, S"|30.9334|Black|4|3|NULL
+457|"Women's Tights, M"|30.9334|Black|4|3|NULL
+458|"Women's Tights, L"|30.9334|Black|4|3|NULL
+459|"Men's Bib-Shorts, S"|37.1209|Multi|4|3|NULL
+460|"Men's Bib-Shorts, M"|37.1209|Multi|4|3|NULL
+461|"Men's Bib-Shorts, L"|37.1209|Multi|4|3|NULL
+462|Half-Finger Gloves, S|9.7136|Black|4|3|NULL
+463|Half-Finger Gloves, S|9.1593|Black|4|3|Current
+464|Half-Finger Gloves, M|9.7136|Black|4|3|NULL
+465|Half-Finger Gloves, M|9.1593|Black|4|3|Current
+466|Half-Finger Gloves, L|9.7136|Black|4|3|NULL
+467|Half-Finger Gloves, L|9.1593|Black|4|3|Current
+468|Full-Finger Gloves, S|15.6709|Black|4|3|NULL
+469|Full-Finger Gloves, M|15.6709|Black|4|3|NULL
+470|Full-Finger Gloves, L|15.6709|Black|4|3|NULL
+471|Classic Vest, S|23.749|Blue|4|3|Current
+472|Classic Vest, M|23.749|Blue|4|3|Current
+473|Classic Vest, L|23.749|Blue|4|3|Current
+474|"Women's Mountain Shorts, S"|26.1763|Black|4|3|Current
+475|"Women's Mountain Shorts, M"|26.1763|Black|4|3|Current
+476|"Women's Mountain Shorts, L"|26.1763|Black|4|3|Current
+477|Water Bottle - 30 oz.|1.8663|NA|4|3|Current
+478|Mountain Bottle Cage|3.7363|NA|4|3|Current
+479|Road Bottle Cage|3.3623|NA|4|3|Current
+480|Patch Kit/8 Patches|0.8565|NA|4|3|Current
+481|Racing Socks, M|3.3623|White|4|3|Current
+482|Racing Socks, L|3.3623|White|4|3|Current
+483|Hitch Rack - 4-Bike|44.88|NA|4|3|Current
+484|Bike Wash - Dissolver|2.9733|NA|4|3|Current
+485|Fender Set - Mountain|8.2205|NA|4|3|Current
+486|All-Purpose Bike Stand|59.466|NA|4|3|Current
+487|Hydration Pack - 70 oz.|20.5663|Silver|4|3|Current
+488|Short-Sleeve Classic Jersey, S|41.5723|Yellow|4|3|Current
+489|Short-Sleeve Classic Jersey, M|41.5723|Yellow|4|3|Current
+490|Short-Sleeve Classic Jersey, L|41.5723|Yellow|4|3|Current
+491|Short-Sleeve Classic Jersey, XL|41.5723|Yellow|4|3|Current
+492|HL Touring Frame - Yellow, 60|601.7437|Yellow|500|375|Current
+493|LL Touring Frame - Yellow, 62|199.8519|Yellow|500|375|Current
+494|HL Touring Frame - Yellow, 46|601.7437|Yellow|500|375|Current
+495|HL Touring Frame - Yellow, 50|601.7437|Yellow|500|375|Current
+496|HL Touring Frame - Yellow, 54|601.7437|Yellow|500|375|Current
+497|HL Touring Frame - Blue, 46|601.7437|Blue|500|375|Current
+498|HL Touring Frame - Blue, 50|601.7437|Blue|500|375|Current
+499|HL Touring Frame - Blue, 54|601.7437|Blue|500|375|Current
+500|HL Touring Frame - Blue, 60|601.7437|Blue|500|375|Current
+501|Rear Derailleur|53.9282|Silver|500|375|Current
+502|LL Touring Frame - Blue, 50|199.8519|Blue|500|375|Current
+503|LL Touring Frame - Blue, 54|199.8519|Blue|500|375|Current
+504|LL Touring Frame - Blue, 58|199.8519|Blue|500|375|Current
+505|LL Touring Frame - Blue, 62|199.8519|Blue|500|375|Current
+506|LL Touring Frame - Yellow, 44|199.8519|Yellow|500|375|Current
+507|LL Touring Frame - Yellow, 50|199.8519|Yellow|500|375|Current
+508|LL Touring Frame - Yellow, 54|199.8519|Yellow|500|375|Current
+509|LL Touring Frame - Yellow, 58|199.8519|Yellow|500|375|Current
+510|LL Touring Frame - Blue, 44|199.8519|Blue|500|375|Current
+511|ML Mountain Frame-W - Silver, 40|199.3757|Silver|500|375|Current
+512|ML Mountain Frame-W - Silver, 42|199.3757|Silver|500|375|Current
+513|ML Mountain Frame-W - Silver, 46|199.3757|Silver|500|375|Current
+514|Rear Brakes|47.286|Silver|500|375|Current
+515|LL Mountain Seat/Saddle|12.0413|NA|500|375|Current
+516|ML Mountain Seat/Saddle|17.3782|NA|500|375|Current
+517|HL Mountain Seat/Saddle|23.3722|NA|500|375|Current
+518|LL Road Seat/Saddle|12.0413|NA|500|375|Current
+519|ML Road Seat/Saddle|17.3782|NA|500|375|Current
+520|HL Road Seat/Saddle|23.3722|NA|500|375|Current
+521|LL Touring Seat/Saddle|12.0413|NA|500|375|Current
+522|ML Touring Seat/Saddle|17.3782|NA|500|375|Current
+523|HL Touring Seat/Saddle|23.3722|NA|500|375|Current
+524|LL Mountain Frame - Silver, 42|144.5938|Silver|500|375|Current
+525|LL Mountain Frame - Silver, 44|144.5938|Silver|500|375|Current
+526|LL Mountain Frame - Silver, 48|144.5938|Silver|500|375|Current
+527|LL Mountain Frame - Silver, 52|144.5938|Silver|500|375|Current
+528|Mountain Tire Tube|1.8663|NA|500|375|Current
+529|Road Tire Tube|1.4923|NA|500|375|Current
+530|Touring Tire Tube|1.8663|NA|500|375|Current
+531|LL Mountain Frame - Black, 42|136.785|Black|500|375|Current
+532|LL Mountain Frame - Black, 44|136.785|Black|500|375|Current
+533|LL Mountain Frame - Black, 48|136.785|Black|500|375|Current
+534|LL Mountain Frame - Black, 52|136.785|Black|500|375|Current
+535|LL Mountain Tire|9.3463|NA|500|375|Current
+536|ML Mountain Tire|11.2163|NA|500|375|Current
+537|HL Mountain Tire|13.09|NA|500|375|Current
+538|LL Road Tire|8.0373|NA|500|375|Current
+539|ML Road Tire|9.3463|NA|500|375|Current
+540|HL Road Tire|12.1924|NA|500|375|Current
+541|Touring Tire|10.8423|NA|500|375|Current
+542|LL Mountain Pedal|17.9776|Silver/Black|500|375|Current
+543|ML Mountain Pedal|27.568|Silver/Black|500|375|Current
+544|HL Mountain Pedal|35.9596|Silver/Black|500|375|Current
+545|LL Road Pedal|17.9776|Silver/Black|500|375|Current
+546|ML Road Pedal|27.568|Silver/Black|500|375|Current
+547|HL Road Pedal|35.9596|Silver/Black|500|375|Current
+548|Touring Pedal|35.9596|Silver/Black|500|375|Current
+549|ML Mountain Frame-W - Silver, 38|199.3757|Silver|500|375|Current
+550|LL Mountain Frame - Black, 40|136.785|Black|500|375|Current
+551|LL Mountain Frame - Silver, 40|144.5938|Silver|500|375|Current
+552|Front Derailleur|40.6216|Silver|500|375|Current
+553|LL Touring Handlebars|20.464|NA|500|375|Current
+554|HL Touring Handlebars|40.6571|NA|500|375|Current
+555|Front Brakes|47.286|Silver|500|375|Current
+556|LL Crankset|77.9176|Black|500|375|Current
+557|ML Crankset|113.8816|Black|500|375|Current
+558|HL Crankset|179.8156|Black|500|375|Current
+559|Chain|8.9866|Silver|500|375|Current
+560|Touring-2000 Blue, 60|755.1508|Blue|100|75|Current
+561|Touring-1000 Yellow, 46|1481.9379|Yellow|100|75|Current
+562|Touring-1000 Yellow, 50|1481.9379|Yellow|100|75|Current
+563|Touring-1000 Yellow, 54|1481.9379|Yellow|100|75|Current
+564|Touring-1000 Yellow, 60|1481.9379|Yellow|100|75|Current
+565|Touring-3000 Blue, 54|461.4448|Blue|100|75|Current
+566|Touring-3000 Blue, 58|461.4448|Blue|100|75|Current
+567|Touring-3000 Blue, 62|461.4448|Blue|100|75|Current
+568|Touring-3000 Yellow, 44|461.4448|Yellow|100|75|Current
+569|Touring-3000 Yellow, 50|461.4448|Yellow|100|75|Current
+570|Touring-3000 Yellow, 54|461.4448|Yellow|100|75|Current
+571|Touring-3000 Yellow, 58|461.4448|Yellow|100|75|Current
+572|Touring-3000 Yellow, 62|461.4448|Yellow|100|75|Current
+573|Touring-1000 Blue, 46|1481.9379|Blue|100|75|Current
+574|Touring-1000 Blue, 50|1481.9379|Blue|100|75|Current
+575|Touring-1000 Blue, 54|1481.9379|Blue|100|75|Current
+576|Touring-1000 Blue, 60|1481.9379|Blue|100|75|Current
+577|Touring-2000 Blue, 46|755.1508|Blue|100|75|Current
+578|Touring-2000 Blue, 50|755.1508|Blue|100|75|Current
+579|Touring-2000 Blue, 54|755.1508|Blue|100|75|Current
+580|Road-350-W Yellow, 40|1082.51|Yellow|100|75|Current
+581|Road-350-W Yellow, 42|1082.51|Yellow|100|75|Current
+582|Road-350-W Yellow, 44|1082.51|Yellow|100|75|Current
+583|Road-350-W Yellow, 48|1082.51|Yellow|100|75|Current
+584|Road-750 Black, 58|343.6496|Black|100|75|Current
+585|Touring-3000 Blue, 44|461.4448|Blue|100|75|Current
+586|Touring-3000 Blue, 50|461.4448|Blue|100|75|Current
+587|Mountain-400-W Silver, 38|419.7784|Silver|100|75|Current
+588|Mountain-400-W Silver, 40|419.7784|Silver|100|75|Current
+589|Mountain-400-W Silver, 42|419.7784|Silver|100|75|Current
+590|Mountain-400-W Silver, 46|419.7784|Silver|100|75|Current
+591|Mountain-500 Silver, 40|308.2179|Silver|100|75|Current
+592|Mountain-500 Silver, 42|308.2179|Silver|100|75|Current
+593|Mountain-500 Silver, 44|308.2179|Silver|100|75|Current
+594|Mountain-500 Silver, 48|308.2179|Silver|100|75|Current
+595|Mountain-500 Silver, 52|308.2179|Silver|100|75|Current
+596|Mountain-500 Black, 40|294.5797|Black|100|75|Current
+597|Mountain-500 Black, 42|294.5797|Black|100|75|Current
+598|Mountain-500 Black, 44|294.5797|Black|100|75|Current
+599|Mountain-500 Black, 48|294.5797|Black|100|75|Current
+600|Mountain-500 Black, 52|294.5797|Black|100|75|Current
+601|LL Bottom Bracket|23.9716|NA|500|375|Current
+602|ML Bottom Bracket|44.9506|NA|500|375|Current
+603|HL Bottom Bracket|53.9416|NA|500|375|Current
+604|Road-750 Black, 44|343.6496|Black|100|75|Current
+605|Road-750 Black, 48|343.6496|Black|100|75|Current
+606|Road-750 Black, 52|343.6496|Black|100|75|Current

@@ -1,0 +1,1352 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2023.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimSalesTerritory.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>DimSalesTerritory.xlsx
+Query=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="SalesTerritoryKey" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimSalesTerritory.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="SalesTerritoryRegion" size="255" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimSalesTerritory.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="SalesTerritoryCountry" size="255" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimSalesTerritory.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="SalesTerritoryGroup" size="255" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimSalesTerritory.xlsx|||`Sheet1$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>FactInternetSales.xlsx
+Query=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ProductKey" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="CustomerKey" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="SalesTerritoryKey" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="SalesOrderNumber" size="255" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="SalesOrderLineNumber" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="SalesAmount" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="OrderDate" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`" type="Date" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>|</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>DimProduct.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ProductKey" size="254" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv" type="V_String" />
+            <Field name="EnglishProductName" size="254" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv" type="V_String" />
+            <Field name="StandardCost" size="254" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv" type="V_String" />
+            <Field name="Color" size="254" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv" type="V_String" />
+            <Field name="SafetyStockLevel" size="254" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv" type="V_String" />
+            <Field name="ReorderPoint" size="254" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv" type="V_String" />
+            <Field name="Status" size="254" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="402" y="414" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Prime\AppData\Local\Temp\Engine_18928_c4cf55451c8e054bb9cef07fe3675388_\Engine_18928_0424661b948a344fb1e32a97d02bee6d~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="210" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="SalesTerritoryKey" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="SalesTerritoryKey" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_SalesTerritoryKey" selected="False" rename="Right_SalesTerritoryKey" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="306" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="ProductKey" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="ProductKey" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_ProductKey" selected="False" rename="Right_ProductKey" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="186" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="ProductKey" selected="True" type="Double" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="462" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>SalesTerritoryCountry</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2023-08-18 19:01:17</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>France</Operand>
+              <StartDate>2023-08-18 19:01:17</StartDate>
+              <EndDate>2023-08-18 19:01:17</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[SalesTerritoryCountry] = "France"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="486" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Prime\AppData\Local\Temp\Engine_18928_c4cf55451c8e054bb9cef07fe3675388_\Engine_18928_3a28e54747f79149a73cb155a2e8081d~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="1446" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 1-Output.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Senaryo 1-Output.xlsx
+Query=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Ürün İsmi" size="255" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 1-Output.xlsx|||`Sheet1$`" type="V_WString" />
+            <Field name="Toplam Satış Tutarı" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 1-Output.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Yüzdelik Dilimi" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 1-Output.xlsx|||`Sheet1$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="690" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Prime\AppData\Local\Temp\Engine_18928_c4cf55451c8e054bb9cef07fe3675388_\Engine_18928_e141147b449d4548a4c882fc02c8161d~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="606" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="EnglishProductName" action="GroupBy" rename="ProductName" />
+            <SummarizeField field="SalesAmount" action="Sum" rename="TotalSalesAmount" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="702" y="354" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="TotalSalesAmount" action="Sum" rename="TotalSalesAmountPercentile" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+        <Position x="798" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <CartesianMode>Error</CartesianMode>
+          <SelectConfiguration>
+            <Configuration outputConnection="Output">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="870" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Prime\AppData\Local\Temp\Engine_18928_c4cf55451c8e054bb9cef07fe3675388_\Engine_18928_ae13d7d97f5f4f4e947f7d0555e8ebde~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="954" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="Round([TotalSalesAmount]/[TotalSalesAmountPercentile]*100, .01)" field="TotalSalesAmountPercentile" size="8" type="Double" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>TotalSalesAmountPercentile = Round([TotalSalesAmount]/[TotalSalesAmountPercentil...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1338" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Prime\AppData\Local\Temp\Engine_18928_c4cf55451c8e054bb9cef07fe3675388_\Engine_18928_4e7271c154e80944bb9b49c50bf94d2b~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="31">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1026" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Prime\AppData\Local\Temp\Engine_18928_c4cf55451c8e054bb9cef07fe3675388_\Engine_18928_146b4d88390ff642805b15c63c6d488d~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="1074" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="TotalSalesAmount" order="Descending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>TotalSalesAmount - Descending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sample.Sample">
+        <Position x="1206" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>First</Mode>
+          <N>10</N>
+          <GroupFields orderChanged="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>First 10 rows</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSample" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="678" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimSalesTerritory.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>DimSalesTerritory.xlsx
+Query=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="SalesTerritoryKey" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimSalesTerritory.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="SalesTerritoryRegion" size="255" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimSalesTerritory.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="SalesTerritoryCountry" size="255" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimSalesTerritory.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="SalesTerritoryGroup" size="255" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimSalesTerritory.xlsx|||`Sheet1$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="834" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>FactInternetSales.xlsx
+Query=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ProductKey" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="CustomerKey" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="SalesTerritoryKey" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="SalesOrderNumber" size="255" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="SalesOrderLineNumber" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="SalesAmount" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="OrderDate" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\FactInternetSales.xlsx|||`Sheet1$`" type="Date" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="990" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>|</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>DimProduct.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ProductKey" size="254" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv" type="V_String" />
+            <Field name="EnglishProductName" size="254" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv" type="V_String" />
+            <Field name="StandardCost" size="254" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv" type="V_String" />
+            <Field name="Color" size="254" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv" type="V_String" />
+            <Field name="SafetyStockLevel" size="254" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv" type="V_String" />
+            <Field name="ReorderPoint" size="254" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv" type="V_String" />
+            <Field name="Status" size="254" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\DimProduct.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="402" y="1038" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Prime\AppData\Local\Temp\Engine_18928_c4cf55451c8e054bb9cef07fe3675388_\Engine_18928_b461a0ba63d4324e99a80734d491ee91~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="38">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="210" y="798" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="SalesTerritoryKey" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="SalesTerritoryKey" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_SalesTerritoryKey" selected="False" rename="Right_SalesTerritoryKey" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="306" y="870" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="ProductKey" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="ProductKey" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_ProductKey" selected="False" rename="Right_ProductKey" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="40">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="186" y="990" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="ProductKey" selected="True" type="Double" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="41">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="450" y="870" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[OrderDate] &gt;= "2007-01-01"
+AND
+[OrderDate] &lt; "2008-01-01"</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[OrderDate] &gt;= "2007-01-01"
+AND
+[OrderDate] &lt; "2008-01-01"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="42">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="546" y="738" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Prime\AppData\Local\Temp\Engine_18928_c4cf55451c8e054bb9cef07fe3675388_\Engine_18928_8fffc552bec9d541b66ea44d46b0a66f~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="45">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="702" y="750" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Prime\AppData\Local\Temp\Engine_18928_c4cf55451c8e054bb9cef07fe3675388_\Engine_18928_ed528a2f730c584c81bd255da96ec139~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="47">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="1734" y="726" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 2-Output.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Senaryo 2-Output.xlsx
+Query=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="EnglishProductName" size="255" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 2-Output.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="January" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 2-Output.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="February" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 2-Output.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="March" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 2-Output.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="April" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 2-Output.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="May" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 2-Output.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="June" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 2-Output.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="July" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 2-Output.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="August" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 2-Output.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="September" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 2-Output.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="October" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 2-Output.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="November" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 2-Output.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="December" source="File: C:\Users\Prime\OneDrive\Masaüstü\Klasör\Ders\Staj\Staj işlemleri\Staj-1\Dersler\Assignments\Assignment-6(Alteryx)\Senaryo 2-Output.xlsx|||`Sheet1$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="50">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="738" y="858" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="SalesTerritoryKey" selected="False" />
+            <SelectField field="SalesTerritoryRegion" selected="False" />
+            <SelectField field="SalesTerritoryCountry" selected="False" />
+            <SelectField field="SalesTerritoryGroup" selected="False" />
+            <SelectField field="ProductKey" selected="False" />
+            <SelectField field="CustomerKey" selected="False" />
+            <SelectField field="SalesOrderNumber" selected="False" />
+            <SelectField field="SalesOrderLineNumber" selected="False" />
+            <SelectField field="OrderDate" selected="False" />
+            <SelectField field="StandardCost" selected="False" />
+            <SelectField field="Color" selected="False" />
+            <SelectField field="SafetyStockLevel" selected="False" />
+            <SelectField field="ReorderPoint" selected="False" />
+            <SelectField field="Status" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="51">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="906" y="858" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="EnglishProductName" />
+          </GroupFields>
+          <HeaderField field="OrderMonth" />
+          <DataField field="SalesAmount" />
+          <Methods>
+            <Method method="Sum" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="EnglishProductName" size="254" source="CrossTab:Group:Sum:" type="V_String" />
+            <Field name="01_January" source="CrossTab:Header:OrderMonth:01-January:Sum:" type="Double" />
+            <Field name="02_February" source="CrossTab:Header:OrderMonth:02-February:Sum:" type="Double" />
+            <Field name="03_March" source="CrossTab:Header:OrderMonth:03-March:Sum:" type="Double" />
+            <Field name="04_April" source="CrossTab:Header:OrderMonth:04-April:Sum:" type="Double" />
+            <Field name="05_May" source="CrossTab:Header:OrderMonth:05-May:Sum:" type="Double" />
+            <Field name="06_June" source="CrossTab:Header:OrderMonth:06-June:Sum:" type="Double" />
+            <Field name="07_July" source="CrossTab:Header:OrderMonth:07-July:Sum:" type="Double" />
+            <Field name="08_August" source="CrossTab:Header:OrderMonth:08-August:Sum:" type="Double" />
+            <Field name="09_September" source="CrossTab:Header:OrderMonth:09-September:Sum:" type="Double" />
+            <Field name="10_October" source="CrossTab:Header:OrderMonth:10-October:Sum:" type="Double" />
+            <Field name="11_November" source="CrossTab:Header:OrderMonth:11-November:Sum:" type="Double" />
+            <Field name="12_December" source="CrossTab:Header:OrderMonth:12-December:Sum:" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="52">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="918" y="1050" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Prime\AppData\Local\Temp\Engine_18928_c4cf55451c8e054bb9cef07fe3675388_\Engine_18928_468df2379b9eaf4d86de13fe0b12dd3c~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="44">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="606" y="858" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="DateTimeFormat([OrderDate],&quot;%m&quot;) + &quot;-&quot; + DateTimeFormat([OrderDate],&quot;%B&quot;)" field="OrderMonth" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>OrderMonth = DateTimeFormat([OrderDate],"%m") + "-" + DateTimeFormat([OrderDate]...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="56">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.FieldInfo.FieldInfo">
+        <Position x="1062" y="930" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFieldInfo" />
+    </Node>
+    <Node ToolID="57">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1182" y="930" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF [Type] = &quot;Double&quot;&#xA;THEN ReplaceChar(Substring([Name],3), &quot;-&quot;  , &quot;&quot;)&#xA;ELSE [NAME] ENDIF&#xA;" field="Name" size="18" type="V_String" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Name = IF [Type] = "Double"
+THEN ReplaceChar(Substring([Name],3), "-"  , "")
+ELS...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="58">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1170" y="1122" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Prime\AppData\Local\Temp\Engine_18928_c4cf55451c8e054bb9cef07fe3675388_\Engine_18928_ecd73cd1ed5a054bb2b5475a75073064~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="59">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+        <Position x="1302" y="870" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RenameMode>RightInputRows</RenameMode>
+          <Fields orderChanged="False">
+            <Field name="EnglishProductName" selected="False" />
+            <Field name="01_January" selected="False" />
+            <Field name="02_February" selected="False" />
+            <Field name="03_March" selected="False" />
+            <Field name="04_April" selected="False" />
+            <Field name="05_May" selected="False" />
+            <Field name="06_June" selected="False" />
+            <Field name="07_July" selected="False" />
+            <Field name="08_August" selected="False" />
+            <Field name="09_September" selected="False" />
+            <Field name="10_October" selected="False" />
+            <Field name="11_November" selected="False" />
+            <Field name="12_December" selected="False" />
+            <Field name="*Unknown" selected="False" />
+          </Fields>
+          <Expression />
+          <NamesFromRows>
+            <OnError>Warn</OnError>
+            <InputMode>Positional</InputMode>
+            <NewName>Name</NewName>
+          </NamesFromRows>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="EnglishProductName" size="254" source="CrossTab:Group:Sum:" type="V_String" />
+            <Field name="January" source="CrossTab:Header:OrderMonth:01-January:Sum:" type="Double" />
+            <Field name="February" source="CrossTab:Header:OrderMonth:02-February:Sum:" type="Double" />
+            <Field name="March" source="CrossTab:Header:OrderMonth:03-March:Sum:" type="Double" />
+            <Field name="April" source="CrossTab:Header:OrderMonth:04-April:Sum:" type="Double" />
+            <Field name="May" source="CrossTab:Header:OrderMonth:05-May:Sum:" type="Double" />
+            <Field name="June" source="CrossTab:Header:OrderMonth:06-June:Sum:" type="Double" />
+            <Field name="July" source="CrossTab:Header:OrderMonth:07-July:Sum:" type="Double" />
+            <Field name="August" source="CrossTab:Header:OrderMonth:08-August:Sum:" type="Double" />
+            <Field name="September" source="CrossTab:Header:OrderMonth:09-September:Sum:" type="Double" />
+            <Field name="October" source="CrossTab:Header:OrderMonth:10-October:Sum:" type="Double" />
+            <Field name="November" source="CrossTab:Header:OrderMonth:11-November:Sum:" type="Double" />
+            <Field name="December" source="CrossTab:Header:OrderMonth:12-December:Sum:" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+    </Node>
+    <Node ToolID="61">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="1458" y="870" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="EnglishProductName" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>EnglishProductName - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="62">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1626" y="870" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Prime\AppData\Local\Temp\Engine_18928_c4cf55451c8e054bb9cef07fe3675388_\Engine_18928_d7c15b8d6aa78a4698ccc4860eec061d~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="8" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="8" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Join" />
+      <Destination ToolID="9" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="9" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Join" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Join" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="True" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="True" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="23" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="23" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="27" Connection="Output" />
+      <Destination ToolID="31" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="27" Connection="Output" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="30" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="38" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="38" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Output" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Join" />
+      <Destination ToolID="39" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="39" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Join" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Join" />
+      <Destination ToolID="41" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="True" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="True" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="50" Connection="Output" />
+      <Destination ToolID="51" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="51" Connection="Output" />
+      <Destination ToolID="52" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="51" Connection="Output" />
+      <Destination ToolID="56" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="51" Connection="Output" />
+      <Destination ToolID="59" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="57" Connection="Output" />
+      <Destination ToolID="59" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Output" />
+      <Destination ToolID="50" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Output" />
+      <Destination ToolID="45" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="56" Connection="Output" />
+      <Destination ToolID="57" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="56" Connection="Output" />
+      <Destination ToolID="58" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="59" Connection="Output" />
+      <Destination ToolID="61" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="61" Connection="Output" />
+      <Destination ToolID="62" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>assignment-6</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="15d7e63d-8a75-4046-a501-af4c56133065" />
+      <Telemetry>
+        <PreviousWorkflowId value="069055e6-ad16-4bcb-8734-b22ed1400329" />
+        <OriginWorkflowId value="d83fb0f7-cdb7-4ef1-b25d-8ceb91da3f6a" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
